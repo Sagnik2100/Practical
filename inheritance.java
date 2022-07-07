@@ -1,4 +1,4 @@
-package day6;
+//author @Sagnik Banerjee
 
 class inheritance {
     public static void main(String[] args) {
