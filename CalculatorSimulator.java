@@ -1,4 +1,5 @@
- class TaxCalculator {
+//author Sagnik Banerjee 
+class TaxCalculator { 
  double calculateTax(String empName,boolean isIndian,double empSal) throws Exception{
     double taxAmount;
     if(isIndian==false){
